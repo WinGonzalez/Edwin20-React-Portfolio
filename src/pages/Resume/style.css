@@ -13,7 +13,7 @@
 }
 
 .resume h2 {
-    color: #333;
+    color: #930404;
     font-size: 32px;
     margin-bottom: 25px;
 }
@@ -23,19 +23,19 @@
 }
 
 .resume h3 {
-    color: #007bff;
+    color: #ff5e00;
     font-size: 24px;
     margin-bottom: 20px;
 }
 
 .resume h4 {
-    color: #333;
+    color: #f2912f;
     font-size: 20px;
     margin-bottom: 12px;
 }
 
 .resume p {
-    color: #666;
+    color: #e1a640;
     margin-bottom: 12px;
     line-height: 1.5;
 }
@@ -43,7 +43,7 @@
 .resume .resume-download {
     display: inline-block;
     padding: 12px 24px;
-    background-color: #007bff;
+    background-color: #00ffd5;
     color: #fff;
     text-decoration: none;
     border-radius: 6px;

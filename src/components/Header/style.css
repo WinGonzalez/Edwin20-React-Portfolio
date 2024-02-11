@@ -1,5 +1,5 @@
 .header {
-  background-color: #5e4040;
+  background-color: #eb6d19;
   /* Header background color */
   color: #fdfdfd;
   /* Text color */
@@ -22,6 +22,6 @@
 }
 
 .site-title:hover {
-  color: #61dafb;
+  color: #45cbf0;
   /* Change color on hover */
 }
