@@ -4,7 +4,7 @@ import './style.css';
 function Resume() {
     return (
         <div className="resume">
-            <h2></h2>
+            <h2>Coming Soon!</h2>
 
             <section className="education">
                 <h3>Education</h3>
